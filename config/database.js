@@ -1,10 +1,10 @@
 // config/database.js
 module.exports = {
     connection: {
-        host: 'localhost',
+        host: 'sql10.freemysqlhosting.net',
         port: '3306',
-        user: 'root',
-        password: '',
+        user: 'sql10407711',
+        password: 'VPKPt3JZNS',
     },
-    database: 'clientname'
+    database: 'sql10407711'
 };
